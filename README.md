@@ -1,3 +1,5 @@
+# Full Stack Fest's Speaker Guidelines & Recommendations
+
 # Slack Channel
 
 We've set up a private slack channel for speakers where you all can meet and exchange ideas & thoughts about the conference. You can join it via this link:
