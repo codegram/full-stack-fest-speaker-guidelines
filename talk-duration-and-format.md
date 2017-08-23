@@ -2,7 +2,7 @@
 
 ### The auditorium
 
-The conference happens in the AXA Auditorium. The auditorium has a capacity of 550 people.
+The conference happens in Auditori AXA. The auditorium has a capacity of 550 people, a big Full HD projector, and a nice, wireless microphone system. It also features very comfortable seating.
 
 Here's how it looks on the inside!
 
