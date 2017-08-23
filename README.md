@@ -1,10 +1,6 @@
-# Slack Channel
+# Full Stack Fest's speaker guidelines
 
-We've set up a private slack channel for speakers where you all can meet and exchange ideas & thoughts about the conference. You can join it via this link:
-
-[http://chat.fullstackfest.com/](http://chat.fullstackfest.com/)
-
-Just register into slack and enter the _\#general_ channel. We’ll invite you to the private _\#speakers2017_ one when we see you land there!
+The following is a document meant for speakers at Full Stack Fest. It includes tips & tricks to make your talk even more awesome!
 
 
 
