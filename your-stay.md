@@ -1,4 +1,4 @@
-## Logistics & Accomodation
+## Accomodation
 
 ### Your stay
 
@@ -10,12 +10,5 @@ It's barely a 3 minute walk from the Auditorium, so it'll be really easy for you
 
 ### The Auditorium
 
-The conference happens in the AXA Auditorium. Here's how it looks on the outside:
-
 ![AXA Auditorium from the outside](/assets/axa-outside.jpg)
 
-And here's how it looks on the inside:
-
-![AXA Auditorium from the inside](/assets/axa-inside.jpg)
-
-![AXA Auditorium from the inside](/assets/axa-inside-2.JPG)
