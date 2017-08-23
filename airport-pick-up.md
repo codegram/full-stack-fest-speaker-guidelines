@@ -4,6 +4,6 @@ Since we already have your flight details, we'll be waiting for you at the airpo
 
 ![](/assets/codegram-crew.jpg)
 
-But don't worry! There's gonna be all of us in there! Just one or two :)
+But don't worry! It's not gonna be all of us in there! Just one or two :)
 
-We'll help you with your luggage and get you to the airport.
+We'll help you with your luggage and get you to the hotel. Expect everything from then on to go smoothly!
