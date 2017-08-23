@@ -10,7 +10,7 @@ Just register in Slack and enter the \#general channel. We’ll invite you to th
 
 ## Other means to reach us
 
-You can always reach us via email \([conferences@codegram.com](mailto:conferences@codegram.com)\), via Twitter \([@fullstackfest](https://www.twitter.com/fullstackfest)\) or calling us \(+34 937 21 94\)
+You can always reach us via email \([conferences@codegram.com](mailto:conferences@codegram.com)\), via Twitter \([@fullstackfest](https://www.twitter.com/fullstackfest)\) or calling us \(0034 937 872 194\)
 
 
 
