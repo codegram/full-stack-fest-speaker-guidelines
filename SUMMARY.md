@@ -1,8 +1,8 @@
 # Summary
 
-* [Introduction](introduction.md)
+* [Introduction](README.md)
 * [Slack Channel](README.md)
-* [Companion talks](slack-channel.md)
+* [Slack Channel](slack-channel.md)
 * [Before your talk](before-your-talk.md)
 * [Audience profile](audience-profile.md)
 * [Talk duration and format](talk-duration-and-format.md)
