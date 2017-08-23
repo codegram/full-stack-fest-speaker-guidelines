@@ -14,6 +14,6 @@ The hotel where you'll be staying.
 
 ## Codegram
 
-The awesome company behind Full Stack Fest. We're a web development studio focused on open-source and building well-architected source.
+The awesome company behind Full Stack Fest. We're a web development studio focused on open-source and building well-architected code.
 
 More information: [https://codegram.com](https://codegram.com).
