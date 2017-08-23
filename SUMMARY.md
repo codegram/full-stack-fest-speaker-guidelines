@@ -7,7 +7,7 @@
 ## Talk & Logistics
 
 * [Communication](communication.md)
-* [Accommodation](your-stay.md)
+* [Accommodation & meals](your-stay.md)
 * [Your talk](talk-duration-and-format.md)
 
 ## Other

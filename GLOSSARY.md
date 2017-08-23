@@ -6,3 +6,8 @@ The auditorium where the conference happens. It has capacity for 550+ people.
 
 More information: [https://www.axa.es/acerca-axa/auditorio-y-centro-de-convenciones](https://www.axa.es/acerca-axa/auditorio-y-centro-de-convenciones).
 
+## Hotel NH Barelona Les Corts
+
+The hotel where you'll be staying.
+
+**Address**: [Travessera de les Corts, 292](https://goo.gl/maps/8QTUarbY4pG2)
