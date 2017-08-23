@@ -8,7 +8,7 @@ It's barely a 3 minute walk from the Auditorium, so it'll be really easy for you
 
 [![](/assets/Screen Shot 2017-08-23 at 3.41.45 PM.png)](https://goo.gl/maps/vv6o2c9j5N92)
 
-### The Auditorium
+### Meals
 
-![AXA Auditorium from the outside](/assets/axa-outside.jpg)
+**Breakfast is included** in the stay and it's served from 7-10am. **Coffee and snacks** will be served during the conference, and **lunch is included as well** - look for the lunch tickets included in the reservation. You'll be able to choose from a wide range of restaurants in the area, covering any food allergies or restrictions.
 
