@@ -1,8 +1,8 @@
-# Table of contents
+# Summary
 
 * [Introduction](README.md)
 * [Slack Channel](slack-channel.md)
-* [Your stay](your-stay.md)
+* [Logistics & Accomodation](your-stay.md)
 * [About your fellow speakers’ talks](about-your-fellow-speakers-talks.md)
 * [Before your talk](before-your-talk.md)
 * [Audience profile](audience-profile.md)
