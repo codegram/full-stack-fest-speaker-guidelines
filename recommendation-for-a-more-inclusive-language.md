@@ -9,4 +9,3 @@ Words like "crazy", "dumb", "insane" or "lame" are examples of ableist language,
 ### Sexism
 
 Using gendered terms like "dude" or "guys" to address a mixed-gendered group of people contributes to furthering exclusion of underrepresented individuals. We strongly advise avoiding gendered pronouns as well as gendered terms.
-
