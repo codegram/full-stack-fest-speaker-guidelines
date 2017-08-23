@@ -38,5 +38,5 @@ All the talks will be live-captioned for attendees with an impaired hearing or t
 
 ### Recording
 
-All the talks will be recorded and published for free at your [YouTube channel](https://www.youtube.com/channel/UCwoOpKfkyCQHW562hXXQAGg/playlists) shortly after the conference \(a couple or weeks or so\).
+All the talks will be recorded and published for free under a Creative Commons license at our [YouTube channel](https://www.youtube.com/channel/UCwoOpKfkyCQHW562hXXQAGg/playlists) shortly after the conference \(a couple or weeks or so\).
 
