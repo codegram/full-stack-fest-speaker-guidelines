@@ -10,5 +10,5 @@ It's barely a 3 minute walk from the Auditorium, so it'll be really easy for you
 
 ### Meals
 
-**Breakfast is included** in the stay and it's served from 7-10am. **Coffee and snacks** will be served during the conference, and **lunch is included as well** - look for the lunch tickets included in the reservation. You'll be able to choose from a wide range of restaurants in the area, covering any food allergies or restrictions.
+**Breakfast is included** in the stay and it's served from 7-10am. **Coffee and snacks** will be served during the conference, and **lunch is included as well on nearby restaurants** - look for the lunch tickets included in the reservation. You'll be able to choose from a wide range of restaurants in the area covering most food allergies and dietary restrictions.
 
