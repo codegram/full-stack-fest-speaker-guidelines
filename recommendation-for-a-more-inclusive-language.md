@@ -1,4 +1,4 @@
-## Recommendation for a more inclusive language
+## Inclusive language
 
 In order to ensure a safe experience for everyone on the audience, we'd like to ask you to be mindful about the language. In this regard, we particularly like the [guidelines given by CSSConf](http://2016.cssconf.com.au/codeofconduct/), but we’re open to suggestions. In that case, please send them to us and we’ll include them.
 
@@ -9,3 +9,4 @@ Words like "crazy", "dumb", "insane" or "lame" are examples of ableist language,
 ### Sexism
 
 Using gendered terms like "dude" or "guys" to address a mixed-gendered group of people contributes to furthering exclusion of underrepresented individuals. We strongly advise avoiding gendered pronouns as well as gendered terms.
+
