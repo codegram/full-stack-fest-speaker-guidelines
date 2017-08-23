@@ -1,4 +1,6 @@
-# Full Stack Fest's speaker guidelines
+![](/assets/logo.png)
+
+# Speaker Handbook
 
 > The following is a document meant for speakers at Full Stack Fest.
 
