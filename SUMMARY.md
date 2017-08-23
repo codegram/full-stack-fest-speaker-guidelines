@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* [Introduction](README.md)
+* [What is this?](README.md)
 
 ## Talk & Logistics
 

@@ -1,6 +1,6 @@
 ![](/assets/logo.png)
 
-# Speaker Handbook
+# What is this?
 
 > The following is a document meant for speakers at Full Stack Fest.
 
