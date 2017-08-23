@@ -4,6 +4,6 @@ We've set up a private slack channel for speakers where you all can meet and exc
 
 http://chat.fullstackfest.com/
 
-Just register in Slack and enter the #general channel. We’ll invite you to the private #speakers2017 once we see you there channel after you land in Barcelona :)
+Just register in Slack and enter the #general channel. We’ll invite you to the private #speakers2017 channel once we see you there!
 
 
