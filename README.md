@@ -1,6 +1,6 @@
 ![](/assets/logo.png)
 
-# What is this?
+# Introduction
 
 > The following is a document meant for speakers at Full Stack Fest.
 

@@ -1,8 +1,6 @@
 # Summary
 
-## Introduction
-
-* [What is this?](README.md)
+* [Introduction](README.md)
 
 ## Talk & Logistics
 
