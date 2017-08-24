@@ -7,6 +7,7 @@
 
 ## Talk & Logistics
 
+* [Connectivity](connectivity.md)
 * [Communication](communication.md)
 * [Transport](airport-pick-up.md)
 * [Accommodation & meals](your-stay.md)
