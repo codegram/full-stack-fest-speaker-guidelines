@@ -1,4 +1,4 @@
-![](/assets/logo.png)
+![](/assets/speakers-handbook.png)
 
 # Introduction
 
