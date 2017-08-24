@@ -1,6 +1,8 @@
 # Summary
 
-* [Introduction](README.md)
+## Introduction
+
+* [What is this?](README.md)
 * [About Full Stack Fest](about-full-stack-fest.md)
 
 ## Talk & Logistics
