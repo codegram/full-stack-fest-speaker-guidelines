@@ -2,6 +2,6 @@
 
 # Introduction
 
-> The following is a document meant for speakers at Full Stack Fest.
+Hi! We'd like to welcome you to [Full Stack Fest](https://fullstackfest.com)!
 
-We've compiled some information that might interest you as a speaker, as it has to do with the talk format & delivery as well as other aspects of the conference. It might help you prepare your talk as well as finding ways to better connect with the audience!
+If you're a speaker, this document should serve as a guide to everything you need. Should you miss some information, please add a comment to the document (or just shoot us an email) and we'll gladly include it. And if you're not a speaker, don't be afraid to peek in!
