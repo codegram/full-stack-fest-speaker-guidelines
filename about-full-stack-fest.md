@@ -11,7 +11,7 @@ We're not afraid of mixing technologies & disciplines in an attempt to explore t
 
 [![](/assets/video-teaser.jpg)](https://www.youtube.com/watch?v=vkYCDU6Xbms)
 
-From Serverless, blockchain & AI to Progressive Web Apps, IoT and Virtual Reality - 2017's edition is shaping up to be an outstanding experience for curious developers wanting to experiment with the technology of the future, today!
+From **Serverless**, **Blockchain** & **AI** to **Progressive Web Apps**, **IoT** and **Virtual Reality** - 2017's edition is shaping up to be an outstanding experience for curious developers wanting to experiment with the technology of the future, today!
 
 ## Previous editions
 
