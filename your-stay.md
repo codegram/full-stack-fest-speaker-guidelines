@@ -8,6 +8,10 @@ You'll be staying at [Hotel NH Barcelona Les Corts](https://www.nh-hoteles.es/ho
 * **e-mail**: nhlescorts@nh-hotels.com
 * **Address**: [Carrer Nicaragua 148, 08029 Barcelona](https://goo.gl/maps/rkETUB5mog52)
 
+Here's how the entrance looks:
+
+![](/assets/nh-facade.jpg)
+
 It's barely a 3 minute walk from the Auditorium, so it'll be really easy for you to get there if you need to.
 
 [![](/assets/hotel-axa.png)](https://goo.gl/maps/vv6o2c9j5N92)
