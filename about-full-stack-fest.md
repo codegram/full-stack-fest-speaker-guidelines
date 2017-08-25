@@ -7,7 +7,7 @@ We're not afraid of mixing technologies & disciplines in an attempt to explore t
 **Our motto**: "Ideas of today, wonders from the future". 
 **Our main goal**: To get the attendees inspired to try new things.
 
-### 2017's edition
+### 2017 edition
 
 [![](/assets/video-teaser.jpg)](https://www.youtube.com/watch?v=vkYCDU6Xbms)
 
