@@ -20,3 +20,5 @@ Words like "crazy", "dumb", "insane" or "lame" are examples of ableist language,
 
 Using gendered terms like "dude" or "guys" to address a mixed-gendered group of people contributes to furthering exclusion of underrepresented individuals. We strongly advise avoiding gendered pronouns as well as gendered terms.
 
+For more information please familiarise yourself with [Geek Feminism wiki guide](http://geekfeminism.wikia.com/wiki/Nonsexist_language).
+
