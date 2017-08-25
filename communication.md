@@ -12,7 +12,15 @@ You can join it via this link:
 
 Just register in Slack and enter the **\#general** channel. We’ll invite you to the private **\#speakers2017** channel once we see you there!
 
-## Other means to reach us
+## Twitter
 
-You can always reach us via email \([conferences@codegram.com](mailto:conferences@codegram.com)\), via Twitter \([@fullstackfest](https://www.twitter.com/fullstackfest)\) or calling us \(0034 937 872 194\)
+Our official twitter account is [@fullstackfest](https://twitter.com/fullstackfest). You can get in touch via DM - we're constantly monitoring.
+
+## Telegram & Whatsapp
+
+You can also reach us on **Telegram** & **Whatsapp** via this number: +34 622 04 06 08
+
+## Email
+
+You can always reach us via email \([conferences@codegram.com](mailto:conferences@codegram.com)\)
 
