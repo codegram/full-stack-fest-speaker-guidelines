@@ -2,7 +2,11 @@
 
 ### Your stay
 
-You'll be staying at [Hotel NH Barcelona Les Corts](). Our crew will pick you up at the airport and help you with the check in.
+You'll be staying at [Hotel NH Barcelona Les Corts](https://www.nh-hoteles.es/hotel/nh-barcelona-les-corts). Our crew will pick you up at the airport and help you with the check in.
+
+**Phone number**: +34 93 3220811
+**e-mail**: nhlescorts@nh-hotels.com
+**Address**: [Travessera de les Corts, 292 08029 Barcelona](https://goo.gl/maps/rkETUB5mog52)
 
 It's barely a 3 minute walk from the Auditorium, so it'll be really easy for you to get there if you need to.
 
