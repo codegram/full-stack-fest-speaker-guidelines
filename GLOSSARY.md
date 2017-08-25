@@ -1,4 +1,4 @@
-## Auditorium
+## auditorium
 
 The conference happens at "Auditori AXA". It has capacity for 550+ people. 
 
