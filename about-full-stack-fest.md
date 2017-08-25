@@ -1,13 +1,17 @@
 ## Full Stack Fest
 
-At [Full Stack Fest](https://fullstackfest.com) we're not afraid of mixing technologies & disciplines in an attempt to explore the next breakthroughs.
+[Full Stack Fest](https://fullstackfest.com) is a week-long full stack development conference with a focus on solving current problems with new & inspiring perspectives.
+
+We're not afraid of mixing technologies & disciplines in an attempt to explore the next breakthroughs.
 
 **Our motto**: "Ideas of today, wonders from the future". 
 **Our main goal**: To get the attendees inspired to try new things.
 
-### Video teaser
+### 2017's edition
 
 [![](/assets/video-teaser.jpg)](https://www.youtube.com/watch?v=vkYCDU6Xbms)
+
+From Serverless, blockchain & AI to Progressive Web Apps, IoT and Virtual Reality - 2017's edition is shaping up to be an outstanding experience for curious developers wanting to experiment with the technology of the future, today!
 
 ## Previous editions
 
