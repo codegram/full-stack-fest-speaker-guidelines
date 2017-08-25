@@ -18,7 +18,7 @@ Just the day before each of the conference's block (Sept, 3 for backend speakers
 
 It'll give you the chance to get to know other speakers while having a really nice menu at the Hilton Hotel.
 
-We'll meet at **Hotel NH Barelona Les Corts hall at 20:00**.
+We'll meet at **Hotel NH Barelona Les Corts hall at 19:30**.
 
 ### Other meals
 
