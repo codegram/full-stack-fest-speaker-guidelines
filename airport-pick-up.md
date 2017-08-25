@@ -8,7 +8,9 @@ Since we already have your flight details, we'll be waiting for you at the airpo
 
 But don't worry! It's not gonna be all of us in there! Just one or two :\)
 
-If you're landing on **T1** we'll be in front of **Cafe di Fiore**, at the pickups zone. We'll help you with your luggage and get you to the hotel with one of our vehicles. Expect everything from then on to go smoothly!
+If you're landing on **T1** we'll be in front of **Cafe di Fiore**, at the pickups zone. If you're landing at **T2**, we'll be on the end of the exit lane - it's quite small and finding us will be fairly easy.
+
+We'll help you with your luggage and get you to the hotel with one of our vehicles. Expect everything from then on to go smoothly!
 
 ### Getting back home
 
