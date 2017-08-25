@@ -18,4 +18,4 @@ We'll meet at **Hotel NH Barelona Les Corts hall at 20:00**.
 
 ### Other meals
 
-**Breakfast is included** in the stay and it's served from 7-10am. **Coffee and snacks** will be served during the conference, and **lunch is included as well on nearby restaurants** - look for the lunch tickets included in the reservation. You'll be able to choose from a wide range of restaurants in the area covering most food allergies and dietary restrictions.
+**Breakfast is included** in the stay and it's served from 7-10am. **Coffee and snacks** will be served during the conference, and **lunch is included as well on nearby restaurants** - look for the lunch tickets on the welcome bag. You'll be able to choose from a wide range of restaurants in the area covering most food allergies and dietary restrictions.
