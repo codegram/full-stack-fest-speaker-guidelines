@@ -1,6 +1,6 @@
 ## Full Stack Fest
 
-At [Full Stack Fest](https://fullstackfest.com) we're not afraid to mix technologies & disciplines in an attempt to explore the next breakthroughs.
+At [Full Stack Fest](https://fullstackfest.com) we're not afraid of mixing technologies & disciplines in an attempt to explore the next breakthroughs.
 
 **Our motto**: "Ideas of today, wonders from the future". **Our main goal**: Get the attendees inspired to try new things.
 
