@@ -2,7 +2,7 @@
 
 ### Getting a SIM card
 
-Barcelona is covered by a good 4G connection, but getting a SIM card can take a while and we encourage you to get it on a store once you're at the airport.
+Barcelona is covered by a good 4G connection, but getting a SIM card requires registration with your personal information and can take a while. We encourage you to get it on a store once you're settled at the hotel.
 
 There's a [Vodafone store close by](https://tiendas.vodafone.es/550-vodafone-diagonal) that has a 4GB data plan for 15EUR.
 
