@@ -1,4 +1,4 @@
-![](/assets/speakers-handbook.png)
+![https://speaker-handbook.fullstackfest.com](/assets/speakers-handbook.png)
 
 # What is this?
 
