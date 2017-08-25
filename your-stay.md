@@ -20,7 +20,7 @@ It's barely a 3 minute walk from the Auditorium, so it'll be really easy for you
 
 Just the day before each of the conference's block (Sept, 3 for backend speakers and Sept 6 for front-end speakers) we'll throw a speaker's dinner.
 
-It'll give you the chance to get to know other speakers while having a really nice menu at the Hilton Hotel.
+It'll give you the chance to get to know other speakers while having a really nice menu at the [Hilton Hotel](https://goo.gl/maps/3A2z53jfG2t).
 
 We'll meet at **Hotel NH Barelona Les Corts hall at 19:30**.
 
