@@ -10,7 +10,7 @@ You'll be staying at [Hotel NH Barcelona Les Corts](https://www.nh-hoteles.es/ho
 
 It's barely a 3 minute walk from the Auditorium, so it'll be really easy for you to get there if you need to.
 
-[![](/assets/Screen Shot 2017-08-23 at 3.41.45 PM.png)](https://goo.gl/maps/vv6o2c9j5N92)
+[![](/assets/hotel-axa.png)](https://goo.gl/maps/vv6o2c9j5N92)
 
 ### Speaker's dinner
 
