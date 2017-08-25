@@ -1,4 +1,4 @@
-## Connectivity
+## 📡 Connectivity
 
 ### Getting a SIM card
 

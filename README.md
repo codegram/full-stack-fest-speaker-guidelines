@@ -1,6 +1,6 @@
 ![https://speaker-handbook.fullstackfest.com](/assets/speakers-handbook.png)
 
-# What is this?
+# 🤷‍♀️ What is this?
 
 Hi! We'd like to welcome you to [Full Stack Fest](https://fullstackfest.com)!
 

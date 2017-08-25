@@ -1,4 +1,4 @@
-## Accomodation & meals
+## 🏨 Accomodation & meals
 
 ### Your stay
 

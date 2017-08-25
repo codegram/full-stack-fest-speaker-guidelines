@@ -1,4 +1,4 @@
-# Communication
+# 💬 Communication
 
 Before anything else, we should get sure both sides have clear ways to get in touch with each other.
 

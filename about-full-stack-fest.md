@@ -1,4 +1,4 @@
-## Full Stack Fest
+## 🚀 Full Stack Fest
 
 [Full Stack Fest](https://fullstackfest.com) is a week-long full stack development conference with a focus on solving current problems with new & inspiring perspectives.
 
