@@ -4,6 +4,8 @@
 
 The conference happens in Auditori AXA. The auditorium has a capacity of 550 people, a big Full HD projector, and a nice, wireless microphone system. It also features very comfortable seating.
 
+**Address**: [Avinguda Diagonal 547, Barcelona](https://goo.gl/maps/PcStat2WiRF2)
+
 Here's how it looks on the inside!
 
 ![AXA Auditorium from the inside 1](/assets/axa-inside-2.JPG)![AXA Auditorium from the inside 2](/assets/axa-inside.jpg)

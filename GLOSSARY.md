@@ -1,6 +1,6 @@
-## Auditori AXA
+## Auditorium
 
-The auditorium where the conference happens. It has capacity for 550+ people. 
+The conference happens at "Auditori AXA". It has capacity for 550+ people. 
 
 **Address**: [Avinguda Diagonal 547, Barcelona](https://goo.gl/maps/PcStat2WiRF2)
 
