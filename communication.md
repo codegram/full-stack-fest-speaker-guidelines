@@ -16,7 +16,7 @@ Just register in Slack and enter the **\#general** channel. We’ll invite you t
 
 Our official Twitter account is [@fullstackfest](https://twitter.com/fullstackfest). You can get in touch via DM - we're constantly monitoring.
 
-## Telegram & Whatsapp
+## Signal, Telegram & Whatsapp
 
 You can also reach us on **Signal**, **Telegram** or **Whatsapp** via this number: +34 622 04 06 08
 
