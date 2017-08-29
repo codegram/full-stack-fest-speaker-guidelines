@@ -18,7 +18,7 @@ Our official Twitter account is [@fullstackfest](https://twitter.com/fullstackfe
 
 ## Telegram & Whatsapp
 
-You can also reach us on **Telegram** & **Whatsapp** via this number: +34 622 04 06 08
+You can also reach us on **Signal**, **Telegram** or **Whatsapp** via this number: +34 622 04 06 08
 
 ## Email
 
