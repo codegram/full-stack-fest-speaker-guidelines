@@ -23,9 +23,11 @@ We've prepared some slides for you to help you navigate across these bullet poin
 
 Please **be at the auditorium at 8:30** \(skip the queue, just ask an organizer\) so we can review the slides together!
 
-### Presenting every speaker
+### Presenting each speaker
 
-It's good to do a bit of research to the speaker beforehand in order to present them - they'll be on the backstage just before the talk so you can ask questions yourself.
+It's **good to do a bit of research on the speaker beforehand** in order to present them - they'll be on the backstage just before the talk so you can ask questions yourself.
+
+A nice, funny presentation helps relieve tension and gives the speaker an opportunity to go on stage with a smile!
 
 ### Q&A
 
