@@ -12,6 +12,7 @@
 * [Transport](airport-pick-up.md)
 * [Accommodation & meals](your-stay.md)
 * [Your talk](talk-duration-and-format.md)
+* [MCing](mcing.md)
 * [Gap Day activities](gap-day-activities.md)
 
 ## Other
