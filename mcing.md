@@ -8,7 +8,7 @@ A good MC is crucial to the conference, and that is why we chose YOU! We're so g
 
 We've prepared a nice, **comfortable backstage** for you with a **TV screen and sound system** where you'll be able to follow the talks. There's gonna be an organizer with you at all times to give you indications and advice on your tasks. It should be a smooth ride!
 
-Your tasks will include:
+Your tasks include:
 
 ### Welcoming everyone to the conference
 
