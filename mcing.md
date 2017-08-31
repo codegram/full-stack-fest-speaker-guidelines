@@ -19,9 +19,9 @@ The MC is the first person to get on stage. A great power comes with great respo
 * **Reminding** how **lunches** work
 * **Reminding** how the **Gap Day** works
 
-We've prepared some slides for you to help you navigate across these bullet points - we can show it to you during registration! You'll have a big remote from the 80s to control them. 
+We've prepared some slides for you to help you navigate across these bullet points! You'll also have a big remote from the 80s to control them (nice!).
 
-Please **be at the auditorium at 8:30** \(skip the queue, just ask an organizer\) so we can show them to you!
+Please **be at the auditorium at 8:30** \(skip the queue, just ask an organizer\) so we can review the slides together!
 
 ### Presenting every speaker
 
