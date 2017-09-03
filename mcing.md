@@ -23,6 +23,8 @@ We've prepared some slides for you to help you navigate across these bullet poin
 
 Please **be at the auditorium at 8:30** \(skip the queue, just ask an organizer\) so we can review the slides together!
 
+**Update**: [Check out the slides of the first day](https://drive.google.com/file/d/0B0yHgRtDegM0SmRaYWR4c2g2Skk/view?usp=sharing).
+
 ### Presenting each speaker
 
 It's **good to do a bit of research on the speaker beforehand** in order to present them - they'll be on the backstage just before the talk so you can ask questions yourself.
