@@ -8,3 +8,4 @@ If you're a speaker, this document should serve as a guide to everything you nee
 
 Downloading the [PDF](https://www.gitbook.com/download/pdf/book/codegram/full-stack-fest-speaker-guidelines), [EPUB](https://www.gitbook.com/download/epub/book/codegram/full-stack-fest-speaker-guidelines) or [MOBI](https://www.gitbook.com/download/mobi/book/codegram/full-stack-fest-speaker-guidelines) version makes for a good read on the plane!
 
+
