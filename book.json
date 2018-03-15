@@ -2,5 +2,9 @@
   "title": "Full Stack Fest's speaker handbook",
   "description": "A little book containing tips & tricks for Full Stack Fest's speakers",
   "author": "Codegram",
-  "language": "English"
+  "language": "English",
+  "styles": {
+    "website": "./styles/website.scss",
+    "ebook": "./styles/ebook.scss"
+  }
 }
