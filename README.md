@@ -1,4 +1,4 @@
-![https://speaker-handbook.fullstackfest.com](/assets/speakers-handbook.png)
+![https://speaker-handbook.fullstackfest.com](/assets/512x512.png)
 
 # What is this?
 
