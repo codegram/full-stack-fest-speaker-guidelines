@@ -3,6 +3,11 @@
   "description": "A little book containing tips & tricks for Full Stack Fest's speakers",
   "author": "Codegram",
   "language": "English",
+  "plugins": ["theme-default", "styles-sass"],
+  "pdf": {
+  "fontFamily": "Open Sans",
+  "paperSize": "a4"
+  },
   "styles": {
     "website": "./styles/website.scss",
     "ebook": "./styles/ebook.scss"
