@@ -10,7 +10,7 @@ There's a [Vodafone store close by](https://tiendas.vodafone.es/550-vodafone-dia
 
 There's also a public, city-wide **WiFi** available for free, but tends to be a bit unreliable, so a mobile data plan still is the preferred option.
 
-### On the auditorium
+### At the auditorium
 
 During the conference, there's a private speakers WiFi available. You'll have access to it during the whole event, and also from the stage. Just ask for the name and password upon arrival.
 
