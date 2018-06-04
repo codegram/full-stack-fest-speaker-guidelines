@@ -6,9 +6,9 @@ You'll be staying at [Hotel NH Collection Constanza](https://www.nh-hotels.com/h
 
 ![](/assets/entrance.jpeg)
 
-* **Phone number**: +34 93 3220811
-* **e-mail**: nhlescorts@nh-hotels.com
-* **Address**: [Carrer de Deu i Mata, 74 - 82, 08029 Barcelona](https://goo.gl/maps/fPt2q159t332)
+* **Phone number**: +34 93 2811500
+* **E-mail**: o.marin@nh-hotels.com
+* **Address**: Deu i Mata 69-99 \| 08029 Barcelona
 
 Here's how the back entrance looks:
 
@@ -20,9 +20,16 @@ It's barely a minute walk throught the park from the Auditorium, so it'll be rea
 
 ### Speaker's dinner
 
-Just the day before each of the conference's block \(Sept, 2 for backend speakers and Sept 5 for front-end speakers\) we'll throw a speaker's dinner.
+Just the day before each of the conference's block \(Sept, 2 for backend speakers and Sept 5 for front-end speakers\) we'll throw a speaker's dinner. The restaurant is:
 
-**Details pending**
+**Flax&Kale**
+
+Teresa Carles Healthy Foods
+
+\(+34\)93 317 56 64  
+----------------------------------------------  
+C/ Tallers 74  
+08001 Barcelona – Spain
 
 ### Other meals
 
