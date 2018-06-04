@@ -10,7 +10,7 @@ You can join it via this link:
 
 [http://chat.fullstackfest.com/](http://chat.fullstackfest.com/)
 
-Just register in Slack and enter the **\#general** channel. We’ll invite you to the private **\#speakers2017** channel once we see you there!
+Just register in Slack and enter the **\#general** channel. We’ll invite you to the private **\#speakers-2018** channel once we see you there!
 
 ## Twitter
 
