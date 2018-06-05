@@ -24,12 +24,13 @@ Just the day before each of the conference's block \(Sept, 2 for backend speaker
 
 **Flax&Kale**
 
-Teresa Carles Healthy Foods
+###### Teresa Carles Healthy Foods
 
-\(+34\)93 317 56 64  
-----------------------------------------------  
-C/ Tallers 74  
-08001 Barcelona – Spain
+###### \(+34\)93 317 56 64
+
+###### C/ Tallers 74
+
+###### 08001 Barcelona – Spain
 
 ### Other meals
 
