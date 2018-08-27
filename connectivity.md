@@ -2,9 +2,9 @@
 
 ### Around the city
 
-Barcelona is covered by a good 4G connection, but getting a SIM card requires registration with your personal information and can take a while. We encourage you to get it on a store once you're settled at the hotel.
+If you're from Europe you don't have to worry - you're most probably covered by the European Roaming Regulation, which means that you'll be able to use your regular mobile connection as if you were at home.
 
-There's a [Vodafone store close by](https://tiendas.vodafone.es/550-vodafone-diagonal) that has a 4GB data plan for 15EUR.
+In case you're not, you can always get a SIM card at the airport. There's also [Vodafone store close by](https://tiendas.vodafone.es/550-vodafone-diagonal) that has a 4GB data plan for foreigners.
 
 [![](/assets/vodafone-map.jpg)](https://goo.gl/maps/r3NkJtE4XAJ2)
 
